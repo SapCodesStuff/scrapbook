@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110 130">
+  <defs><mask id="perf"><rect x="-4" y="-4" width="118" height="138" fill="#fff"/><g fill="#000"><circle cx="4.6" cy="0" r="3.4"/><circle cx="4.6" cy="130" r="3.4"/><circle cx="13.8" cy="0" r="3.4"/><circle cx="13.8" cy="130" r="3.4"/><circle cx="23.0" cy="0" r="3.4"/><circle cx="23.0" cy="130" r="3.4"/><circle cx="32.2" cy="0" r="3.4"/><circle cx="32.2" cy="130" r="3.4"/><circle cx="41.4" cy="0" r="3.4"/><circle cx="41.4" cy="130" r="3.4"/><circle cx="50.6" cy="0" r="3.4"/><circle cx="50.6" cy="130" r="3.4"/><circle cx="59.8" cy="0" r="3.4"/><circle cx="59.8" cy="130" r="3.4"/><circle cx="69.0" cy="0" r="3.4"/><circle cx="69.0" cy="130" r="3.4"/><circle cx="78.2" cy="0" r="3.4"/><circle cx="78.2" cy="130" r="3.4"/><circle cx="87.4" cy="0" r="3.4"/><circle cx="87.4" cy="130" r="3.4"/><circle cx="96.6" cy="0" r="3.4"/><circle cx="96.6" cy="130" r="3.4"/><circle cx="105.8" cy="0" r="3.4"/><circle cx="105.8" cy="130" r="3.4"/><circle cx="0" cy="4.6" r="3.4"/><circle cx="110" cy="4.6" r="3.4"/><circle cx="0" cy="13.8" r="3.4"/><circle cx="110" cy="13.8" r="3.4"/><circle cx="0" cy="23.0" r="3.4"/><circle cx="110" cy="23.0" r="3.4"/><circle cx="0" cy="32.2" r="3.4"/><circle cx="110" cy="32.2" r="3.4"/><circle cx="0" cy="41.4" r="3.4"/><circle cx="110" cy="41.4" r="3.4"/><circle cx="0" cy="50.6" r="3.4"/><circle cx="110" cy="50.6" r="3.4"/><circle cx="0" cy="59.8" r="3.4"/><circle cx="110" cy="59.8" r="3.4"/><circle cx="0" cy="69.0" r="3.4"/><circle cx="110" cy="69.0" r="3.4"/><circle cx="0" cy="78.2" r="3.4"/><circle cx="110" cy="78.2" r="3.4"/><circle cx="0" cy="87.4" r="3.4"/><circle cx="110" cy="87.4" r="3.4"/><circle cx="0" cy="96.6" r="3.4"/><circle cx="110" cy="96.6" r="3.4"/><circle cx="0" cy="105.8" r="3.4"/><circle cx="110" cy="105.8" r="3.4"/><circle cx="0" cy="115.0" r="3.4"/><circle cx="110" cy="115.0" r="3.4"/><circle cx="0" cy="124.2" r="3.4"/><circle cx="110" cy="124.2" r="3.4"/></g></mask></defs>
+  <rect x="0" y="0" width="110" height="130" rx="3" fill="#f6efdf" mask="url(#perf)"/>
+  <rect x="7" y="7" width="96" height="116" fill="none" stroke="#a1793c" stroke-width="2"/>
+  <rect x="10.5" y="10.5" width="89" height="109" fill="none" stroke="#a1793c" stroke-width="0.8"/>
+  <g transform="translate(23 34) scale(0.62)">
+    <path d="M72,58 C50,30 20,24 11,42 C4,58 22,74 46,77 C58,78.5 68,72 72,64 Z" fill="#d9bc82" stroke="#a1793c" stroke-width="1.5"/>
+    <path d="M72,72 C52,80 36,94 42,108 C48,119 66,112 73,92 Z" fill="#c9a86a" stroke="#a1793c" stroke-width="1.4"/>
+    <g transform="translate(150 0) scale(-1 1)">
+      <path d="M72,58 C50,30 20,24 11,42 C4,58 22,74 46,77 C58,78.5 68,72 72,64 Z" fill="#d9bc82" stroke="#a1793c" stroke-width="1.5"/>
+      <path d="M72,72 C52,80 36,94 42,108 C48,119 66,112 73,92 Z" fill="#c9a86a" stroke="#a1793c" stroke-width="1.4"/>
+    </g>
+    <ellipse cx="75" cy="72" rx="5" ry="24" fill="#4a4237"/>
+  </g>
+  <circle cx="34" cy="66" r="3.4" fill="#a1793c"/><circle cx="116" cy="66" r="3.4" fill="#a1793c"/>
+  <text x="16" y="24" font-family="Cormorant Garamond, Georgia, serif" font-size="9" letter-spacing="1.5" fill="#a1793c">FIELD</text>
+  <text x="55.0" y="116" text-anchor="middle" font-family="Cormorant Garamond, Georgia, serif" font-size="10" letter-spacing="2.5" fill="#a1793c">POSTAGE</text>
+  <text x="95" y="22" text-anchor="middle" font-family="Cormorant Garamond, Georgia, serif" font-size="13" font-weight="600" fill="#a1793c">2</text>
+</svg>

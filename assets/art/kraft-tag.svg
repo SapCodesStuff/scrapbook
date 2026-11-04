@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 160">
+
+  <path d="M24,6 C56,2 92,2 104,8 C112,14 114,26 114,40 L114,136 C114,148 108,154 96,154 L22,154 C10,154 6,146 6,136 L6,22 C6,10 12,8 24,6 Z"
+        fill="#cdb289" stroke="#a1855c" stroke-width="1.5"/>
+  <circle cx="26" cy="28" r="8" fill="#f3ead8" stroke="#a1855c" stroke-width="1.6"/>
+  <path d="M26,28 C0,16 -12,52 8,66 C24,77 42,58 26,28" fill="none" stroke="#b9ad8f" stroke-width="2.2" stroke-linecap="round"/>
+  <text x="66" y="58" text-anchor="middle" font-family="Cormorant Garamond, Georgia, serif" font-size="9" letter-spacing="2.5" fill="#7a5c3e">NOTES</text>
+  <line x1="26" y1="78" x2="98" y2="78" stroke="#a1855c" stroke-width="1"/>
+  <line x1="26" y1="103" x2="98" y2="103" stroke="#a1855c" stroke-width="1"/>
+  <line x1="26" y1="128" x2="98" y2="128" stroke="#a1855c" stroke-width="1"/>
+
+</svg>
